@@ -1,0 +1,3 @@
+VirtualBox - increase via file menu
+
+Ubuntu - Disk Application - Settings - Increase size
