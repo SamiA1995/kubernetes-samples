@@ -1,3 +1,5 @@
 kubectl top nodes
 
 kubectl top pods
+
+https://www.youtube.com/watch?v=Iq7LIBwJ9pE&t=168s
